@@ -48,6 +48,17 @@ I build practical education technology that helps people teach better, learn wit
 - **Language learning** — building practical English-learning experiences for real-world communication.
 - **Education systems** — connecting teaching, assessment, and learning evidence.
 
+## Programming languages & technologies
+
+I work primarily with:
+
+- **TypeScript**
+- **JavaScript**
+- **SQL**
+- **HTML & CSS**
+
+My current product stack also includes React, Next.js, Node.js, PostgreSQL, and Tailwind CSS.
+
 ## My approach
 
 > Remove unnecessary work. Make the next action obvious. Keep educators in control. Measure what learners can actually do.
